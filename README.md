@@ -1,4 +1,4 @@
 # demo
-first get repository
+first git repository
 <br>
 author-aishwarya
